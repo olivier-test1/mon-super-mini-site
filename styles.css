@@ -51,3 +51,10 @@ footer {
     display: flex;
     justify-content: space-between;
 }
+
+.truc {
+    padding: 3em;
+    background-color: yellow;
+    color: #fff;
+    text-align: center;
+}
